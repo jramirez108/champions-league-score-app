@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Champions League Score Tracking App
+React.js project that displays upcoming and completed Champions League matches.
+The match data is in a JSON file stored as separate objects.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This data used to be fetched from an API https://www.football-data.org/ but due to CORS issues with the Heroku server I had to store the latest data into a JSON file and use that instead.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Example JSON Object
+{
+        "id": 451623,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-09-20T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 98,
+            "name": "AC Milan"
+        },
+        "awayTeam": {
+            "id": 67,
+            "name": "Newcastle United FC"
+        },
+        "referees": [
+            {
+                "id": 207080,
+                "name": "José Sánchez Martínez",
+                "role": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    }

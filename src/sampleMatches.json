@@ -1,0 +1,5074 @@
+[
+    {
+        "id": 451623,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-09-20T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 98,
+            "name": "AC Milan"
+        },
+        "awayTeam": {
+            "id": 67,
+            "name": "Newcastle United FC"
+        },
+        "referees": [
+            {
+                "id": 207080,
+                "name": "José Sánchez Martínez",
+                "role": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    {
+        "id": 451637,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-09-20T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1871,
+            "name": "BSC Young Boys"
+        },
+        "awayTeam": {
+            "id": 721,
+            "name": "RB Leipzig"
+        },
+        "referees": [
+            {
+                "id": 15430,
+                "name": "Enea Jorgji",
+                "role": "REFEREE",
+                "nationality": "Albania"
+            }
+        ]
+    },
+    {
+        "id": 451614,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-09-20T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 110,
+            "name": "SS Lazio"
+        },
+        "awayTeam": {
+            "id": 78,
+            "name": "Club Atlético de Madrid"
+        },
+        "referees": [
+            {
+                "id": 9351,
+                "name": "Slavko Vinčič",
+                "role": "REFEREE",
+                "nationality": "Slovenia"
+            }
+        ]
+    },
+    {
+        "id": 451616,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-09-20T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam"
+        },
+        "awayTeam": {
+            "id": 732,
+            "name": "Celtic FC"
+        },
+        "referees": [
+            {
+                "id": 15680,
+                "name": "Irfan Peljto",
+                "role": "REFEREE",
+                "nationality": "Bosnia and Herzegovina"
+            }
+        ]
+    },
+    {
+        "id": 451630,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-09-20T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC"
+        },
+        "awayTeam": {
+            "id": 4,
+            "name": "Borussia Dortmund"
+        },
+        "referees": [
+            {
+                "id": 206211,
+                "name": "Jesús Gil Manzano",
+                "role": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    {
+        "id": 451640,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 65,
+            "name": "Manchester City FC"
+        },
+        "awayTeam": {
+            "id": 7283,
+            "name": "FK Crvena Zvezda"
+        },
+        "referees": [
+            {
+                "id": 38806,
+                "name": "João Pinheiro",
+                "role": "REFEREE",
+                "nationality": "Portugal"
+            }
+        ]
+    },
+    {
+        "id": 451647,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-09-20T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 5,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 3,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 81,
+            "name": "FC Barcelona"
+        },
+        "awayTeam": {
+            "id": 1864,
+            "name": "Royal Antwerp FC"
+        },
+        "referees": [
+            {
+                "id": 15581,
+                "name": "Radu Petrescu",
+                "role": "REFEREE",
+                "nationality": "Romania"
+            }
+        ]
+    },
+    {
+        "id": 451654,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-19T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-09-20T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1887,
+            "name": "FK Shakhtar Donetsk"
+        },
+        "awayTeam": {
+            "id": 503,
+            "name": "FC Porto"
+        },
+        "referees": [
+            {
+                "id": 11029,
+                "name": "Davide Massa",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451586,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-20T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 86,
+            "name": "Real Madrid CF"
+        },
+        "awayTeam": {
+            "id": 28,
+            "name": "1. FC Union Berlin"
+        },
+        "referees": [
+            {
+                "id": 215543,
+                "name": "Espen Eskås",
+                "role": "REFEREE",
+                "nationality": "Norway"
+            }
+        ]
+    },
+    {
+        "id": 451568,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-20T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-09-21T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 610,
+            "name": "Galatasaray SK"
+        },
+        "awayTeam": {
+            "id": 1876,
+            "name": "FC København"
+        },
+        "referees": [
+            {
+                "id": 15654,
+                "name": "Georgi Kabakov",
+                "role": "REFEREE",
+                "nationality": "Bulgaria"
+            }
+        ]
+    },
+    {
+        "id": 451584,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-20T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-09-21T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 559,
+            "name": "Sevilla FC"
+        },
+        "awayTeam": {
+            "id": 546,
+            "name": "Racing Club de Lens"
+        },
+        "referees": [
+            {
+                "id": 43943,
+                "name": "Tobias Stieler",
+                "role": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    {
+        "id": 451595,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-20T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-09-21T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga"
+        },
+        "awayTeam": {
+            "id": 113,
+            "name": "SSC Napoli"
+        },
+        "referees": [
+            {
+                "id": 43858,
+                "name": "Serdar Gözübüyük",
+                "role": "REFEREE",
+                "nationality": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": 451600,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-20T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-09-21T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 92,
+            "name": "Real Sociedad de Fútbol"
+        },
+        "awayTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano"
+        },
+        "referees": [
+            {
+                "id": 11605,
+                "name": "Michael Oliver",
+                "role": "REFEREE",
+                "nationality": "England"
+            }
+        ]
+    },
+    {
+        "id": 451606,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-20T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-09-21T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1903,
+            "name": "Sport Lisboa e Benfica"
+        },
+        "awayTeam": {
+            "id": 1877,
+            "name": "FC Red Bull Salzburg"
+        },
+        "referees": [
+            {
+                "id": 214424,
+                "name": "Halil Meler",
+                "role": "REFEREE",
+                "nationality": "Turkey"
+            }
+        ]
+    },
+    {
+        "id": 451565,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-20T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-09-21T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 4,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 5,
+            "name": "FC Bayern München"
+        },
+        "awayTeam": {
+            "id": 66,
+            "name": "Manchester United FC"
+        },
+        "referees": [
+            {
+                "id": 30960,
+                "name": "Glenn Nyberg",
+                "role": "REFEREE",
+                "nationality": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": 451573,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-09-20T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-09-21T00:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 4,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 3,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC"
+        },
+        "awayTeam": {
+            "id": 674,
+            "name": "PSV"
+        },
+        "referees": [
+            {
+                "id": 43878,
+                "name": "Felix Zwayer",
+                "role": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    {
+        "id": 451587,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-03T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 28,
+            "name": "1. FC Union Berlin"
+        },
+        "awayTeam": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga"
+        },
+        "referees": [
+            {
+                "id": 15649,
+                "name": "Srđan Jovanović",
+                "role": "REFEREE",
+                "nationality": "Serbia"
+            }
+        ]
+    },
+    {
+        "id": 451603,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-03T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 2
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1877,
+            "name": "FC Red Bull Salzburg"
+        },
+        "awayTeam": {
+            "id": 92,
+            "name": "Real Sociedad de Fútbol"
+        },
+        "referees": [
+            {
+                "id": 43857,
+                "name": "Bartosz Frankowski",
+                "role": "REFEREE",
+                "nationality": "Poland"
+            }
+        ]
+    },
+    {
+        "id": 451594,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-03T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 2
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 113,
+            "name": "SSC Napoli"
+        },
+        "awayTeam": {
+            "id": 86,
+            "name": "Real Madrid CF"
+        },
+        "referees": [
+            {
+                "id": 9374,
+                "name": "Clément Turpin",
+                "role": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    {
+        "id": 451601,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-03T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano"
+        },
+        "awayTeam": {
+            "id": 1903,
+            "name": "Sport Lisboa e Benfica"
+        },
+        "referees": [
+            {
+                "id": 43899,
+                "name": "Danny Makkelie",
+                "role": "REFEREE",
+                "nationality": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": 451562,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-03T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1876,
+            "name": "FC København"
+        },
+        "awayTeam": {
+            "id": 5,
+            "name": "FC Bayern München"
+        },
+        "referees": [
+            {
+                "id": 167782,
+                "name": "Orel Grinfeld",
+                "role": "REFEREE",
+                "nationality": null
+            }
+        ]
+    },
+    {
+        "id": 451572,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-03T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 66,
+            "name": "Manchester United FC"
+        },
+        "awayTeam": {
+            "id": 610,
+            "name": "Galatasaray SK"
+        },
+        "referees": [
+            {
+                "id": 43954,
+                "name": "Ivan Kružliak",
+                "role": "REFEREE",
+                "nationality": "Slovakia"
+            }
+        ]
+    },
+    {
+        "id": 451576,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-03T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 546,
+            "name": "Racing Club de Lens"
+        },
+        "awayTeam": {
+            "id": 57,
+            "name": "Arsenal FC"
+        },
+        "referees": [
+            {
+                "id": 11079,
+                "name": "Marco Guida",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451581,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-03T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 674,
+            "name": "PSV"
+        },
+        "awayTeam": {
+            "id": 559,
+            "name": "Sevilla FC"
+        },
+        "referees": [
+            {
+                "id": 11116,
+                "name": "Daniele Orsato",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451611,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-04T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 2
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 78,
+            "name": "Club Atlético de Madrid"
+        },
+        "awayTeam": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam"
+        },
+        "referees": [
+            {
+                "id": 43918,
+                "name": "François Letexier",
+                "role": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    {
+        "id": 451655,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-04T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1864,
+            "name": "Royal Antwerp FC"
+        },
+        "awayTeam": {
+            "id": 1887,
+            "name": "FK Shakhtar Donetsk"
+        },
+        "referees": [
+            {
+                "id": 43936,
+                "name": "Rade Obrenović",
+                "role": "REFEREE",
+                "nationality": "Slovenia"
+            }
+        ]
+    },
+    {
+        "id": 451617,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-04T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 732,
+            "name": "Celtic FC"
+        },
+        "awayTeam": {
+            "id": 110,
+            "name": "SS Lazio"
+        },
+        "referees": [
+            {
+                "id": 43952,
+                "name": "Donatas Rumšas",
+                "role": "REFEREE",
+                "nationality": "Lithuania"
+            }
+        ]
+    },
+    {
+        "id": 451622,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-04T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 4,
+            "name": "Borussia Dortmund"
+        },
+        "awayTeam": {
+            "id": 98,
+            "name": "AC Milan"
+        },
+        "referees": [
+            {
+                "id": 43888,
+                "name": "Szymon Marciniak",
+                "role": "REFEREE",
+                "nationality": "Poland"
+            }
+        ]
+    },
+    {
+        "id": 451631,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-04T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 4,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 67,
+            "name": "Newcastle United FC"
+        },
+        "awayTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC"
+        },
+        "referees": [
+            {
+                "id": 37278,
+                "name": "István Kovács",
+                "role": "REFEREE",
+                "nationality": "Romania"
+            }
+        ]
+    },
+    {
+        "id": 451634,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-04T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 7283,
+            "name": "FK Crvena Zvezda"
+        },
+        "awayTeam": {
+            "id": 1871,
+            "name": "BSC Young Boys"
+        },
+        "referees": [
+            {
+                "id": 34579,
+                "name": "William Collum",
+                "role": "REFEREE",
+                "nationality": "Scotland"
+            }
+        ]
+    },
+    {
+        "id": 451644,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-04T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 721,
+            "name": "RB Leipzig"
+        },
+        "awayTeam": {
+            "id": 65,
+            "name": "Manchester City FC"
+        },
+        "referees": [
+            {
+                "id": 193984,
+                "name": "Artur Dias",
+                "role": "REFEREE",
+                "nationality": "Portugal"
+            }
+        ]
+    },
+    {
+        "id": 451646,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-04T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-10-09T15:20:25Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 503,
+            "name": "FC Porto"
+        },
+        "awayTeam": {
+            "id": 81,
+            "name": "FC Barcelona"
+        },
+        "referees": [
+            {
+                "id": 11580,
+                "name": "Anthony Taylor",
+                "role": "REFEREE",
+                "nationality": "England"
+            }
+        ]
+    },
+    {
+        "id": 451597,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-24T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-10-25T00:21:23Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano"
+        },
+        "awayTeam": {
+            "id": 1877,
+            "name": "FC Red Bull Salzburg"
+        },
+        "referees": [
+            {
+                "id": 43918,
+                "name": "François Letexier",
+                "role": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    {
+        "id": 451564,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-24T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-10-25T00:21:23Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 610,
+            "name": "Galatasaray SK"
+        },
+        "awayTeam": {
+            "id": 5,
+            "name": "FC Bayern München"
+        },
+        "referees": [
+            {
+                "id": 11029,
+                "name": "Davide Massa",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451589,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-24T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-10-25T00:21:23Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 28,
+            "name": "1. FC Union Berlin"
+        },
+        "awayTeam": {
+            "id": 113,
+            "name": "SSC Napoli"
+        },
+        "referees": [
+            {
+                "id": 15680,
+                "name": "Irfan Peljto",
+                "role": "REFEREE",
+                "nationality": "Bosnia and Herzegovina"
+            }
+        ]
+    },
+    {
+        "id": 451592,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-24T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga"
+        },
+        "awayTeam": {
+            "id": 86,
+            "name": "Real Madrid CF"
+        },
+        "referees": [
+            {
+                "id": 11605,
+                "name": "Michael Oliver",
+                "role": "REFEREE",
+                "nationality": "England"
+            }
+        ]
+    },
+    {
+        "id": 451608,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-24T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-10-25T00:21:23Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1903,
+            "name": "Sport Lisboa e Benfica"
+        },
+        "awayTeam": {
+            "id": 92,
+            "name": "Real Sociedad de Fútbol"
+        },
+        "referees": [
+            {
+                "id": 9374,
+                "name": "Clément Turpin",
+                "role": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    {
+        "id": 451570,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-24T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-10-25T00:21:23Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 66,
+            "name": "Manchester United FC"
+        },
+        "awayTeam": {
+            "id": 1876,
+            "name": "FC København"
+        },
+        "referees": [
+            {
+                "id": 11079,
+                "name": "Marco Guida",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451578,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-24T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-10-25T00:21:23Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 559,
+            "name": "Sevilla FC"
+        },
+        "awayTeam": {
+            "id": 57,
+            "name": "Arsenal FC"
+        },
+        "referees": [
+            {
+                "id": 30960,
+                "name": "Glenn Nyberg",
+                "role": "REFEREE",
+                "nationality": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": 451580,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-24T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-10-25T00:21:23Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 546,
+            "name": "Racing Club de Lens"
+        },
+        "awayTeam": {
+            "id": 674,
+            "name": "PSV"
+        },
+        "referees": [
+            {
+                "id": 15581,
+                "name": "Radu Petrescu",
+                "role": "REFEREE",
+                "nationality": "Romania"
+            }
+        ]
+    },
+    {
+        "id": 451619,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-25T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-10-27T00:21:24Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam"
+        },
+        "awayTeam": {
+            "id": 110,
+            "name": "SS Lazio"
+        },
+        "referees": [
+            {
+                "id": 43943,
+                "name": "Tobias Stieler",
+                "role": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    {
+        "id": 451649,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-25T16:45:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-10-27T00:21:24Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 81,
+            "name": "FC Barcelona"
+        },
+        "awayTeam": {
+            "id": 1887,
+            "name": "FK Shakhtar Donetsk"
+        },
+        "referees": [
+            {
+                "id": 43954,
+                "name": "Ivan Kružliak",
+                "role": "REFEREE",
+                "nationality": "Slovakia"
+            }
+        ]
+    },
+    {
+        "id": 451610,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-25T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-10-27T00:21:24Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 732,
+            "name": "Celtic FC"
+        },
+        "awayTeam": {
+            "id": 78,
+            "name": "Club Atlético de Madrid"
+        },
+        "referees": [
+            {
+                "id": 43878,
+                "name": "Felix Zwayer",
+                "role": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    {
+        "id": 451626,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-25T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-10-27T00:21:24Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC"
+        },
+        "awayTeam": {
+            "id": 98,
+            "name": "AC Milan"
+        },
+        "referees": [
+            {
+                "id": 9351,
+                "name": "Slavko Vinčič",
+                "role": "REFEREE",
+                "nationality": "Slovenia"
+            }
+        ]
+    },
+    {
+        "id": 451628,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-25T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-10-27T00:21:24Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 67,
+            "name": "Newcastle United FC"
+        },
+        "awayTeam": {
+            "id": 4,
+            "name": "Borussia Dortmund"
+        },
+        "referees": [
+            {
+                "id": 193984,
+                "name": "Artur Dias",
+                "role": "REFEREE",
+                "nationality": "Portugal"
+            }
+        ]
+    },
+    {
+        "id": 451635,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-25T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1871,
+            "name": "BSC Young Boys"
+        },
+        "awayTeam": {
+            "id": 65,
+            "name": "Manchester City FC"
+        },
+        "referees": [
+            {
+                "id": 24212,
+                "name": "Morten Krogh",
+                "role": "REFEREE",
+                "nationality": "Denmark"
+            }
+        ]
+    },
+    {
+        "id": 451642,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-25T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-10-27T00:21:24Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 721,
+            "name": "RB Leipzig"
+        },
+        "awayTeam": {
+            "id": 7283,
+            "name": "FK Crvena Zvezda"
+        },
+        "referees": [
+            {
+                "id": 207080,
+                "name": "José Sánchez Martínez",
+                "role": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    {
+        "id": 451652,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-10-25T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 3,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-10-27T00:21:24Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 4
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1864,
+            "name": "Royal Antwerp FC"
+        },
+        "awayTeam": {
+            "id": 503,
+            "name": "FC Porto"
+        },
+        "referees": [
+            {
+                "id": 43926,
+                "name": "Benoît Bastien",
+                "role": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    {
+        "id": 451627,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-07T17:45:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-11-08T00:20:31Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 4,
+            "name": "Borussia Dortmund"
+        },
+        "awayTeam": {
+            "id": 67,
+            "name": "Newcastle United FC"
+        },
+        "referees": [
+            {
+                "id": 206208,
+                "name": "Alejandro Hernández Hernández",
+                "role": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    {
+        "id": 451650,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-07T17:45:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-11-08T00:20:31Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1887,
+            "name": "FK Shakhtar Donetsk"
+        },
+        "awayTeam": {
+            "id": 81,
+            "name": "FC Barcelona"
+        },
+        "referees": [
+            {
+                "id": 15680,
+                "name": "Irfan Peljto",
+                "role": "REFEREE",
+                "nationality": "Bosnia and Herzegovina"
+            }
+        ]
+    },
+    {
+        "id": 451609,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-07T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-11-08T00:20:31Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 6,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 78,
+            "name": "Club Atlético de Madrid"
+        },
+        "awayTeam": {
+            "id": 732,
+            "name": "Celtic FC"
+        },
+        "referees": [
+            {
+                "id": 43954,
+                "name": "Ivan Kružliak",
+                "role": "REFEREE",
+                "nationality": "Slovakia"
+            }
+        ]
+    },
+    {
+        "id": 451620,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-07T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-11-08T00:20:31Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 110,
+            "name": "SS Lazio"
+        },
+        "awayTeam": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam"
+        },
+        "referees": [
+            {
+                "id": 43888,
+                "name": "Szymon Marciniak",
+                "role": "REFEREE",
+                "nationality": "Poland"
+            }
+        ]
+    },
+    {
+        "id": 451625,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-07T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-11-08T00:20:31Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 98,
+            "name": "AC Milan"
+        },
+        "awayTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC"
+        },
+        "referees": [
+            {
+                "id": 206211,
+                "name": "Jesús Gil Manzano",
+                "role": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    {
+        "id": 451636,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-07T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 65,
+            "name": "Manchester City FC"
+        },
+        "awayTeam": {
+            "id": 1871,
+            "name": "BSC Young Boys"
+        },
+        "referees": [
+            {
+                "id": 17631,
+                "name": "Erik Lambrechts",
+                "role": "REFEREE",
+                "nationality": "Belgium"
+            }
+        ]
+    },
+    {
+        "id": 451641,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-07T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-11-08T00:20:31Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 7283,
+            "name": "FK Crvena Zvezda"
+        },
+        "awayTeam": {
+            "id": 721,
+            "name": "RB Leipzig"
+        },
+        "referees": [
+            {
+                "id": 11116,
+                "name": "Daniele Orsato",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451651,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-07T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-11-08T00:20:31Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 503,
+            "name": "FC Porto"
+        },
+        "awayTeam": {
+            "id": 1864,
+            "name": "Royal Antwerp FC"
+        },
+        "referees": [
+            {
+                "id": 11043,
+                "name": "Maurizio Mariani",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451590,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-08T17:45:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-11-09T00:20:30Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 113,
+            "name": "SSC Napoli"
+        },
+        "awayTeam": {
+            "id": 28,
+            "name": "1. FC Union Berlin"
+        },
+        "referees": [
+            {
+                "id": 43899,
+                "name": "Danny Makkelie",
+                "role": "REFEREE",
+                "nationality": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": 451607,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-08T17:45:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-11-09T00:20:30Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 3,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 92,
+            "name": "Real Sociedad de Fútbol"
+        },
+        "awayTeam": {
+            "id": 1903,
+            "name": "Sport Lisboa e Benfica"
+        },
+        "referees": [
+            {
+                "id": 11580,
+                "name": "Anthony Taylor",
+                "role": "REFEREE",
+                "nationality": "England"
+            }
+        ]
+    },
+    {
+        "id": 451591,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-08T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 86,
+            "name": "Real Madrid CF"
+        },
+        "awayTeam": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga"
+        },
+        "referees": [
+            {
+                "id": 214424,
+                "name": "Halil Meler",
+                "role": "REFEREE",
+                "nationality": "Turkey"
+            }
+        ]
+    },
+    {
+        "id": 451598,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-08T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-11-09T00:20:30Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1877,
+            "name": "FC Red Bull Salzburg"
+        },
+        "awayTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano"
+        },
+        "referees": [
+            {
+                "id": 43858,
+                "name": "Serdar Gözübüyük",
+                "role": "REFEREE",
+                "nationality": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": 451563,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-08T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-11-09T00:20:30Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 5,
+            "name": "FC Bayern München"
+        },
+        "awayTeam": {
+            "id": 610,
+            "name": "Galatasaray SK"
+        },
+        "referees": [
+            {
+                "id": 37386,
+                "name": "António Nobre",
+                "role": "REFEREE",
+                "nationality": "Portugal"
+            }
+        ]
+    },
+    {
+        "id": 451569,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-08T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-11-09T00:20:30Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 4,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 2
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1876,
+            "name": "FC København"
+        },
+        "awayTeam": {
+            "id": 66,
+            "name": "Manchester United FC"
+        },
+        "referees": [
+            {
+                "id": 43952,
+                "name": "Donatas Rumšas",
+                "role": "REFEREE",
+                "nationality": "Lithuania"
+            }
+        ]
+    },
+    {
+        "id": 451577,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-08T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-11-09T00:20:30Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC"
+        },
+        "awayTeam": {
+            "id": 559,
+            "name": "Sevilla FC"
+        },
+        "referees": [
+            {
+                "id": 37278,
+                "name": "István Kovács",
+                "role": "REFEREE",
+                "nationality": "Romania"
+            }
+        ]
+    },
+    {
+        "id": 451579,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-08T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 4,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-11-09T00:20:30Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 674,
+            "name": "PSV"
+        },
+        "awayTeam": {
+            "id": 546,
+            "name": "Racing Club de Lens"
+        },
+        "referees": [
+            {
+                "id": 15408,
+                "name": "Daniel Siebert",
+                "role": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    {
+        "id": 451618,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-28T17:45:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-11-29T00:21:22Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 110,
+            "name": "SS Lazio"
+        },
+        "awayTeam": {
+            "id": 732,
+            "name": "Celtic FC"
+        },
+        "referees": [
+            {
+                "id": 214424,
+                "name": "Halil Meler",
+                "role": "REFEREE",
+                "nationality": "Turkey"
+            }
+        ]
+    },
+    {
+        "id": 451656,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-28T17:45:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-11-29T00:21:22Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1887,
+            "name": "FK Shakhtar Donetsk"
+        },
+        "awayTeam": {
+            "id": 1864,
+            "name": "Royal Antwerp FC"
+        },
+        "referees": [
+            {
+                "id": 43857,
+                "name": "Bartosz Frankowski",
+                "role": "REFEREE",
+                "nationality": "Poland"
+            }
+        ]
+    },
+    {
+        "id": 451612,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-28T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-11-29T00:21:22Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam"
+        },
+        "awayTeam": {
+            "id": 78,
+            "name": "Club Atlético de Madrid"
+        },
+        "referees": [
+            {
+                "id": 11580,
+                "name": "Anthony Taylor",
+                "role": "REFEREE",
+                "nationality": "England"
+            }
+        ]
+    },
+    {
+        "id": 451621,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-28T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-11-29T00:21:22Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 98,
+            "name": "AC Milan"
+        },
+        "awayTeam": {
+            "id": 4,
+            "name": "Borussia Dortmund"
+        },
+        "referees": [
+            {
+                "id": 37278,
+                "name": "István Kovács",
+                "role": "REFEREE",
+                "nationality": "Romania"
+            }
+        ]
+    },
+    {
+        "id": 451632,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-28T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-11-29T00:21:22Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC"
+        },
+        "awayTeam": {
+            "id": 67,
+            "name": "Newcastle United FC"
+        },
+        "referees": [
+            {
+                "id": 43888,
+                "name": "Szymon Marciniak",
+                "role": "REFEREE",
+                "nationality": "Poland"
+            }
+        ]
+    },
+    {
+        "id": 451633,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-28T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-11-29T00:21:22Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1871,
+            "name": "BSC Young Boys"
+        },
+        "awayTeam": {
+            "id": 7283,
+            "name": "FK Crvena Zvezda"
+        },
+        "referees": [
+            {
+                "id": 43899,
+                "name": "Danny Makkelie",
+                "role": "REFEREE",
+                "nationality": "Netherlands"
+            }
+        ]
+    },
+    {
+        "id": 451643,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-28T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 2
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 65,
+            "name": "Manchester City FC"
+        },
+        "awayTeam": {
+            "id": 721,
+            "name": "RB Leipzig"
+        },
+        "referees": [
+            {
+                "id": 30960,
+                "name": "Glenn Nyberg",
+                "role": "REFEREE",
+                "nationality": "Sweden"
+            }
+        ]
+    },
+    {
+        "id": 451645,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-28T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-11-29T00:21:22Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 81,
+            "name": "FC Barcelona"
+        },
+        "awayTeam": {
+            "id": 503,
+            "name": "FC Porto"
+        },
+        "referees": [
+            {
+                "id": 11116,
+                "name": "Daniele Orsato",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451571,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-29T17:45:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-11-30T00:21:17Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 2
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 610,
+            "name": "Galatasaray SK"
+        },
+        "awayTeam": {
+            "id": 66,
+            "name": "Manchester United FC"
+        },
+        "referees": [
+            {
+                "id": 207080,
+                "name": "José Sánchez Martínez",
+                "role": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    {
+        "id": 451582,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-29T17:45:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-11-30T00:21:17Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 2,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 1,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 559,
+            "name": "Sevilla FC"
+        },
+        "awayTeam": {
+            "id": 674,
+            "name": "PSV"
+        },
+        "referees": [
+            {
+                "id": 11029,
+                "name": "Davide Massa",
+                "role": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "id": 451588,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-29T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-11-30T00:21:17Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 1,
+                "awayTeam": 1
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga"
+        },
+        "awayTeam": {
+            "id": 28,
+            "name": "1. FC Union Berlin"
+        },
+        "referees": [
+            {
+                "id": 9374,
+                "name": "Clément Turpin",
+                "role": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    {
+        "id": 451593,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-29T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 4,
+                "awayTeam": 2
+            },
+            "halfTime": {
+                "homeTeam": 2,
+                "awayTeam": 1
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 86,
+            "name": "Real Madrid CF"
+        },
+        "awayTeam": {
+            "id": 113,
+            "name": "SSC Napoli"
+        },
+        "referees": [
+            {
+                "id": 43918,
+                "name": "François Letexier",
+                "role": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    {
+        "id": 451602,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-29T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-11-30T00:21:17Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 3,
+                "awayTeam": 3
+            },
+            "halfTime": {
+                "homeTeam": 3,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1903,
+            "name": "Sport Lisboa e Benfica"
+        },
+        "awayTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano"
+        },
+        "referees": [
+            {
+                "id": 43838,
+                "name": "Andris Treimanis",
+                "role": "REFEREE",
+                "nationality": "Latvia"
+            }
+        ]
+    },
+    {
+        "id": 451604,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-29T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-11-30T00:21:17Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 92,
+            "name": "Real Sociedad de Fútbol"
+        },
+        "awayTeam": {
+            "id": 1877,
+            "name": "FC Red Bull Salzburg"
+        },
+        "referees": [
+            {
+                "id": 216912,
+                "name": "Mikola Balakin",
+                "role": "REFEREE",
+                "nationality": "Ukraine"
+            }
+        ]
+    },
+    {
+        "id": 451561,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-29T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-11-30T00:21:17Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 0,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 5,
+            "name": "FC Bayern München"
+        },
+        "awayTeam": {
+            "id": 1876,
+            "name": "FC København"
+        },
+        "referees": [
+            {
+                "id": 25786,
+                "name": "Stéphanie Frappart",
+                "role": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    {
+        "id": 451575,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-11-29T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 5,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-11-30T00:21:17Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": 6,
+                "awayTeam": 0
+            },
+            "halfTime": {
+                "homeTeam": 5,
+                "awayTeam": 0
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC"
+        },
+        "awayTeam": {
+            "id": 546,
+            "name": "Racing Club de Lens"
+        },
+        "referees": [
+            {
+                "id": 193984,
+                "name": "Artur Dias",
+                "role": "REFEREE",
+                "nationality": "Portugal"
+            }
+        ]
+    },
+    {
+        "id": 451574,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-12T17:45:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-09-02T15:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 674,
+            "name": "PSV"
+        },
+        "awayTeam": {
+            "id": 57,
+            "name": "Arsenal FC"
+        },
+        "referees": []
+    },
+    {
+        "id": 451583,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-12T17:45:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_B",
+        "lastUpdated": "2023-09-02T15:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 546,
+            "name": "Racing Club de Lens"
+        },
+        "awayTeam": {
+            "id": 559,
+            "name": "Sevilla FC"
+        },
+        "referees": []
+    },
+    {
+        "id": 451585,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-12T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 28,
+            "name": "1. FC Union Berlin"
+        },
+        "awayTeam": {
+            "id": 86,
+            "name": "Real Madrid CF"
+        },
+        "referees": []
+    },
+    {
+        "id": 451596,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-12T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_C",
+        "lastUpdated": "2023-09-02T15:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 113,
+            "name": "SSC Napoli"
+        },
+        "awayTeam": {
+            "id": 5613,
+            "name": "Sporting Clube de Braga"
+        },
+        "referees": []
+    },
+    {
+        "id": 451599,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-12T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-09-02T15:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano"
+        },
+        "awayTeam": {
+            "id": 92,
+            "name": "Real Sociedad de Fútbol"
+        },
+        "referees": []
+    },
+    {
+        "id": 451605,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-12T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_D",
+        "lastUpdated": "2023-09-02T15:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1877,
+            "name": "FC Red Bull Salzburg"
+        },
+        "awayTeam": {
+            "id": 1903,
+            "name": "Sport Lisboa e Benfica"
+        },
+        "referees": []
+    },
+    {
+        "id": 451566,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-12T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-09-02T15:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 66,
+            "name": "Manchester United FC"
+        },
+        "awayTeam": {
+            "id": 5,
+            "name": "FC Bayern München"
+        },
+        "referees": []
+    },
+    {
+        "id": 451567,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-12T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_A",
+        "lastUpdated": "2023-09-02T15:20:01Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1876,
+            "name": "FC København"
+        },
+        "awayTeam": {
+            "id": 610,
+            "name": "Galatasaray SK"
+        },
+        "referees": []
+    },
+    {
+        "id": 451638,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-13T17:45:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-09-02T15:20:02Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 721,
+            "name": "RB Leipzig"
+        },
+        "awayTeam": {
+            "id": 1871,
+            "name": "BSC Young Boys"
+        },
+        "referees": []
+    },
+    {
+        "id": 451639,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-13T17:45:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_G",
+        "lastUpdated": "2023-12-12T15:20:40Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 7283,
+            "name": "FK Crvena Zvezda"
+        },
+        "awayTeam": {
+            "id": 65,
+            "name": "Manchester City FC"
+        },
+        "referees": []
+    },
+    {
+        "id": 451613,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-13T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-09-02T15:20:02Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 78,
+            "name": "Club Atlético de Madrid"
+        },
+        "awayTeam": {
+            "id": 110,
+            "name": "SS Lazio"
+        },
+        "referees": []
+    },
+    {
+        "id": 451615,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-13T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_E",
+        "lastUpdated": "2023-09-02T15:20:02Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 732,
+            "name": "Celtic FC"
+        },
+        "awayTeam": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam"
+        },
+        "referees": []
+    },
+    {
+        "id": 451624,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-13T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-09-02T15:20:02Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 67,
+            "name": "Newcastle United FC"
+        },
+        "awayTeam": {
+            "id": 98,
+            "name": "AC Milan"
+        },
+        "referees": []
+    },
+    {
+        "id": 451629,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-13T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_F",
+        "lastUpdated": "2023-09-02T15:20:02Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 4,
+            "name": "Borussia Dortmund"
+        },
+        "awayTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC"
+        },
+        "referees": []
+    },
+    {
+        "id": 451648,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-13T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-09-02T15:20:02Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 1864,
+            "name": "Royal Antwerp FC"
+        },
+        "awayTeam": {
+            "id": 81,
+            "name": "FC Barcelona"
+        },
+        "referees": []
+    },
+    {
+        "id": 451653,
+        "season": {
+            "id": 1630,
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "currentMatchday": 6
+        },
+        "utcDate": "2023-12-13T20:00:00Z",
+        "status": "SCHEDULED",
+        "matchday": 6,
+        "stage": "GROUP_STAGE",
+        "group": "GROUP_H",
+        "lastUpdated": "2023-09-02T15:20:02Z",
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "halfTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "extraTime": {
+                "homeTeam": null,
+                "awayTeam": null
+            },
+            "penalties": {
+                "homeTeam": null,
+                "awayTeam": null
+            }
+        },
+        "homeTeam": {
+            "id": 503,
+            "name": "FC Porto"
+        },
+        "awayTeam": {
+            "id": 1887,
+            "name": "FK Shakhtar Donetsk"
+        },
+        "referees": []
+    }
+]
